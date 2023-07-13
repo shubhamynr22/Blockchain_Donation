@@ -15,3 +15,9 @@
 -   Create a new branch and make changes.
 
 -   Send a Pull Request after making changes.
+
+## Contributors
+
+- Shubham Gupta[https://github.com/shubhamynr22]
+- Shubham Kumar[https://github.com/nobita851]
+- Saksham Khajuria[https://github.com/saksham-khajuria]
