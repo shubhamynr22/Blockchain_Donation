@@ -18,6 +18,6 @@
 
 ## Contributors
 
-- Shubham Gupta[https://github.com/shubhamynr22]
-- Shubham Kumar[https://github.com/nobita851]
-- Saksham Khajuria[https://github.com/saksham-khajuria]
+- [Shubham Gupta](https://github.com/shubhamynr22)
+- [Shubham Kumar](https://github.com/nobita851)
+- [Saksham Khajuria](https://github.com/saksham-khajuria)
